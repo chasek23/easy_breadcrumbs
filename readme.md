@@ -13,5 +13,11 @@ intended for django, but should be package agnostic
 
 ## Use
 
+Temporarily annoying import. To import use `from easy_breadcrumbs.base import Breadcrumbs`. Will be updated when there is time
+
+## Status
+
+- Still in development! Do not use, need to organize backward depencies. I.E. need to handle direct links! Needs to take inheriting view to generate crumbs backwards
+
 
 
